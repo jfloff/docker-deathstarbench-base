@@ -7,7 +7,7 @@
 [hub]: https://hub.docker.com/r/jfloff/docker-deathstarbench-base
 [travis]: https://travis-ci.org/jfloff/docker-deathstarbench-base
 
-Docker image for DeathStarBench microservices build.
+Docker image for [DeathStarBench](https://github.com/delimitrou/DeathStarBench) microservices build.
 
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 

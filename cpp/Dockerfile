@@ -134,5 +134,5 @@ RUN cd /tmp \
   && rm -rf \
       protobuf-2.5.0.tar \
       protobuf-2.5.0 \
-      xtrace-cpp
+      xtrace-cpp \
   && ldconfig
